@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software developer from Bangladesh</h3>
 
 <img align="right" alt="coding" width="505" src="https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif">
-<img align="right" alt="coding" width="505" src="https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif">
+<img align="left" alt="coding" width="505" src="https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parves-mosharuf&label=Profile%20views&color=0e75b6&style=flat" alt="parves-mosharuf" /> </p>
 
