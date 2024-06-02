@@ -1,9 +1,8 @@
-<img align="center" alt="coding" width="auto" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
+<img align="left" alt="coding" width="auto" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 <h1 align="center">Hi 👋, I'm Parves Mosharuf</h1>
 <h3 align="center">A passionate software developer from Bangladesh</h3>
-<img align="left" alt="coding" width="505" src="https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif">
 
-<img align="right" alt="coding" width="505" src="https://corebitweb.com/wp-content/uploads/2021/09/blockchain-development.gif">
+<img align="right" alt="coding" width="400" src="https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parves-mosharuf&label=Profile%20views&color=0e75b6&style=flat" alt="parves-mosharuf" /> </p>
 
@@ -15,7 +14,7 @@
 
 - 📫 How to reach me **parvesmosharofpappu@gmail.com**
 
-- ⚡ Fun fact **I think I am crazy coder**
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
